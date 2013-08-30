@@ -1,4 +1,4 @@
-express_server
+Simple Express Server
 ==============
 
 A simple node.js web server using express to serve static web pages
