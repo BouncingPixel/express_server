@@ -11,4 +11,4 @@ Add a dev_conf.js file
 
 For HEROKU Deployment:
 
-Use or edit the Procfile
+Use the Procfile
