@@ -9,4 +9,4 @@ Add a dev_conf.js file
 
 For HEROKU Deployment:
 
-Add a Procfile
+Use or edit the Procfile
